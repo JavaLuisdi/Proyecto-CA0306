@@ -1,0 +1,19 @@
+# Archivos temporales de Excel
+*.tmp
+*.bak
+*.log
+*.xlk
+*.xlsb
+
+# Archivos temporales de LaTeX
+*.aux
+*.toc
+*.out
+*.log
+*.synctex.gz
+*.pdf
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+EOL
